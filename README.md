@@ -55,9 +55,11 @@ Provide different Services like Web,App, AI Development Services.
 
 ---
 **🔗 [RyaLiving - Consultancy Tech Solution StartUp](https://ryaliving.in/)**  
-Developed and deployed a responsive Shopify-based luxury décor store, optimizing product browsing and checkout for enhanced user experience.
-Customized Shopify theme using Liquid, Tailwind CSS, and JavaScript, improving site performance and SEO visibility, leading to a 30% increase in conversions.
-• Shopify • Figma • JavaScript • Stripe
+🛍️ Developed and deployed a responsive Shopify-based luxury décor store, optimizing product browsing and checkout for enhanced user experience.
+
+⚙️ Customized Shopify theme using Liquid, Tailwind CSS, and JavaScript, improving site performance and SEO visibility, leading to a 30% increase in conversions.
+
+• React • Node.js • MongoDB • Tailwind CSS 
 ---
 
 **🔗 [StyleSpher - E-Commerce Platform]**  
