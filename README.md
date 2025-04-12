@@ -35,18 +35,35 @@ A one-on-one chat platform with live messaging using Socket.IO
 [GitHub Repo](https://github.com/Raghav-28/CHAT-APP-CHUGLI)
 
 ---
-
+**🔗 [Let's Crack It - AI Powerred Interview Platform](https://letscrackit.vercel.app/)**  
+Next.js and Firebase is used for Frontend & Backend.
+User AI agents like VAPI & Google AI Studio.
+> Next.js • Firebase • VAPI • Tailwind CSS
+[GitHub Repo](https://github.com/Raghav-28/letscrackit)
+---
 **🔗 [Orion - Enterprise Bank App](https://orion-bank-app.vercel.app/)**  
 Secure banking with Dwolla + Plaid + Appwrite  
 > Next.js • Tailwind CSS • Appwrite • Sentry  
 [GitHub Repo](https://github.com/Raghav-28/OrionBankApp)
 
 ---
+**🔗 [Orphus Solution - Consultancy Tech Solution StartUp](consultancy-web-app-1.vercel.app)**  
+Innovative Tech StartUp which aims to provide Tech Solutions.
+Provide different Services like Web,App, AI Development Services.
+• React • Node.js • MongoDB • Tailwind CSS 
+[GitHub Repo](https://github.com/Raghav-28/Consultancy-web-app)
 
-**🔗 [StyleSpher - E-Commerce Platform](https://github.com/Raghav-28/React-Ecommerce-Site)**  
+---
+**🔗 [RyaLiving - Consultancy Tech Solution StartUp](https://ryaliving.in/)**  
+Developed and deployed a responsive Shopify-based luxury décor store, optimizing product browsing and checkout for enhanced user experience.
+Customized Shopify theme using Liquid, Tailwind CSS, and JavaScript, improving site performance and SEO visibility, leading to a 30% increase in conversions.
+• Shopify • Figma • JavaScript • Stripe
+---
+
+**🔗 [StyleSpher - E-Commerce Platform]**  
 Full MERN stack shopping app with JWT auth and Stripe  
 > MERN • Redux • Stripe • Tailwind CSS
-
+[Github Repo]((https://github.com/Raghav-28/React-Ecommerce-Site))
 ---
 
 ### 👨‍💻 Experience
